@@ -1,5 +1,7 @@
 # voice_record
 
+This app uses animations for splash screen, have login with validation and records audio from user and plays
+
 A new Flutter project.
 
 ## Getting Started
